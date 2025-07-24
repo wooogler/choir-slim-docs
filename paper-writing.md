@@ -1,16 +1,17 @@
-# Writing Tips #
+# Writing Tips
 
 - Here's a section that contains some writing tips.
 
-# Journal/Conference Submission #
+# Journal/Conference Submission
 
-## Target Venues ## 
- 
+## Target Venues
+
 SLIM Lab focuses on occupational ergonomics, wearable sensors, and human-technology interaction in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis).
 
 The lab frequently publishes in high-impact, peer-reviewed journals in ergonomics and human factors:
 
-### Core Journals ###
+### Core Journals
+
 - **Applied Ergonomics** (Elsevier) — Primary journal for empirical ergonomics studies.
 - **Ergonomics** (Taylor & Francis) — Regular outlet for work on human performance and posture.
 - **International Journal of Industrial Ergonomics** (Elsevier) — For workplace and equipment-focused studies.
@@ -19,7 +20,7 @@ The lab frequently publishes in high-impact, peer-reviewed journals in ergonomic
 
 The lab consistently presents at leading ergonomics and human factors conferences:
 
-### Target Conferences ###
+### Target Conferences
+
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
 - **Applied Human Factors and Ergonomics (AHFE)**
-  
