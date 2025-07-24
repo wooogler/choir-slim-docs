@@ -17,7 +17,7 @@ We aim to:
 
 ## 🧑‍🔬 Human-subject Study and IRB
 
-## This section contains information about human subject study and IRB informatino.
+This section contains information about human subject study and IRB informatino.
 
 ## 🧑‍🔬 Resources: Equpiment, Hardware, Software
 
