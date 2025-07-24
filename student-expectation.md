@@ -14,12 +14,6 @@ This section discusses the expectations of students in the lab.
 
 ---
 
-## ⚙️ Work Ethic Expectations
-
-This section discusses the expectations of students in the lab.
-
----
-
 ## 🤝 Professional Conduct
 
 This section explains how students should conduct themselves professionally in the lab and beyond.
