@@ -6,14 +6,16 @@
 
 ## Target Venues
 
-SLIM Lab focuses on occupational ergonomics and  wearable sensors in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis). The lab aims to publish in high-impact, peer-reviewed journals in ergonomics and human factors:
+SLIM Lab focuses on occupational ergonomics, wearable sensors, and human-technology interaction in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis).
+
+The lab frequently publishes in high-impact, peer-reviewed journals in ergonomics and human factors:
 
 ### Core Journals
 
 - **Applied Ergonomics** (Elsevier) — Primary journal for empirical ergonomics studies.
 - **Ergonomics** (Taylor & Francis) — Regular outlet for work on human performance and posture.
 - **International Journal of Industrial Ergonomics** (Elsevier) — For workplace and equipment-focused studies.
-- **Human Factors** (SAGE) — Prestigious journal of the Human Factors and Ergonomics Society (HFES).
+- **Human Factors** (SAGE) — Prestigious journal of the Human Factors and Ergonomics Society (HFES) that also targets research in the human-computer interaction field.
 - **IISE Transactions on Occupational Ergonomics and Human Factors** — Applied industrial ergonomics.
 
 The lab consistently presents at leading ergonomics and human factors conferences:
