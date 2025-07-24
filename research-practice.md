@@ -10,27 +10,23 @@ The SLIM Lab is dedicated to advancing inclusive and safe human-centered design 
 
 We aim to:
 
-1. **Assess Human Motion**  
-   Combine functional biomechanics, wearable sensing technologies, and data analytics to measure human movement in real-world and controlled environmental contexts.
-
-2. **Enhance Human Performance and Well-being**  
-   Improve human functioning by delivering timely, personalized, and context-aware interventions—especially in occupational and public environments.
+- **Assess Human Motion**Combine functional biomechanics, wearable sensing technologies, and data analytics to measure human movement in real-world and controlled environmental contexts.
+- **Enhance Human Performance and Well-being**Improve human functioning by delivering timely, personalized, and context-aware interventions—especially in occupational and public environments.
 
 ---
 
 ## 🧑‍🔬 Human-subject Study and IRB
 
-This section contains information about human subject study and IRB informatino. 
----
+## This section contains information about human subject study and IRB informatino.
 
-## 🧑‍🔬 Resources: Equpiment, Hardware, Software 
+## 🧑‍🔬 Resources: Equpiment, Hardware, Software
 
-This section contains information about resources, hardware and equipment. 
+This section contains information about resources, hardware and equipment.
 
 ---
 
 ## 🛠️ Research Methodologies
 
-This section contains information about various research methods (expeirment design, interviews, observatino study, etc). 
+This section contains information about various research methods (expeirment design, interviews, observatino study, etc).
 
 ---
