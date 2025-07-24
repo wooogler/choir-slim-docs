@@ -8,7 +8,7 @@
 
 SLIM Lab focuses on occupational ergonomics, wearable sensors, and human-technology interaction in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis), and targets journals in the HCI field.
 
-The lab frequently publishes in high-impact, peer-reviewed journals in ergonomics, human factors, and occupational safety.
+The lab frequently publishes in high-impact, peer-reviewed journals in ergonomics, human factors, occupational safety, and the HCI field.
 
 ### Core Journals
 
