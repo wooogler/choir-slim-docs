@@ -24,3 +24,7 @@ The lab consistently presents at leading ergonomics and human factors conference
 
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
 - **Applied Human Factors and Ergonomics (AHFE)**
+
+# Co-Author Communication Responsibilities
+
+- First authors are responsible for informing their co-authors about the results of submitted abstracts or manuscripts. This includes emailing them the results, attaching the review report, and clearly stating whether the abstract was rejected, accepted as a poster, or accepted as a lecture. Additionally, first authors should inform co-authors about their next steps, such as reviewing the final abstract or extended abstract. This responsibility applies to all other publications as well.
