@@ -1,18 +1,16 @@
-
-
 Brief overview of the lab's mission, research themes, and the purpose of this handbook.
 
 ---
 
 ## 🌟 Core Values
 
-This section discusses the core values of SLIM Lab 
+This section discusses the core values of SLIM Lab
 
 ---
 
 ## ⚙️ Work Ethic Expectations
 
-This section discusses the expectations of students in the lab. 
+This section discusses the expectations of students in the lab.
 
 ---
 
