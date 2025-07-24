@@ -6,9 +6,7 @@
 
 ## Target Venues
 
-SLIM Lab focuses on occupational ergonomics, wearable sensors, and human-technology interaction in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis).
-
-The lab frequently publishes in high-impact, peer-reviewed journals in ergonomics and human factors:
+SLIM Lab focuses on occupational ergonomics and  wearable sensors in both physical and virtual environments (e.g., VR training, motion feedback, lifting analysis). The lab aims to publish in high-impact, peer-reviewed journals in ergonomics and human factors:
 
 ### Core Journals
 
