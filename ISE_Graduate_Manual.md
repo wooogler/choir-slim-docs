@@ -4,17 +4,20 @@ The Grado Department of Industrial and Systems Engineering (ISE) offers a broad-
 
 # GRADUATE PROGRAM POLICIES & PROCEEDURES
 
-## 1. Purpose of the Graduate Manual 
+## 1. Purpose of the Graduate Manual
+
 This graduate manual provides requirements, policies, and procedures adopted by the faculty for current graduate students in industrial and systems engineering (ISE) for successful completion of graduate degrees. Students should be aware that the requirements provided here represent minimum requirements for ISE. It is imperative that you consult your advisor before taking classes since the ultimate approval for your course selection rests with the faculty. Additional information concerning graduate school requirements may be found in the Graduate Policies and Procedures and Course Catalog from Virginia Tech. http://graduateschool.vt.edu/graduate_catalog/
 
 If there is any doubt regarding the interpretation of any regulation or requirement in this manual, or if there are questions about the graduate program involving matters not covered in this manual, please consult the ISE Graduate Program Director, Dr. Maury A. Nussbaum, or the ISE Graduate Program Advisor, Hannah Parks. It is each individual student’s responsibility to be familiar with all university policies, procedures, and requirements.
 
 The provisions of this manual do not constitute a contract, expressed or implied, between any applicant or student and the ISE Department or Virginia Polytechnic Institute and State University. The university and the ISE Department reserve the right to change any of the provisions, schedules, programs., courses, rules, regulations, or fees whenever university or departmental authorities deem it expedient to do so.
 
-## 2. Administration of ISE Graduate Program 
+## 2. Administration of ISE Graduate Program
+
 The graduate program is administered by the Graduate Policy Committee (GPC), which is also charged with the responsibility for resolving conflicts that may arise regarding policy or procedural issues. The director of the ISE graduate program chairs the GPC. In addition to chairing the GPC, the director of the graduate program is responsible for implementation of requirements, policies, and procedures adopted by the ISE faculty. The director of the graduate program and members of the GPC are appointed by the ISE department head. The ISE Graduate Admissions Committee (GAC) makes all admission decisions. The GAC also assigns incoming graduate students to a temporary advisor in their primary interest area.
 
-## 3. Financial Assistance 
+## 3. Financial Assistance
+
 The ISE Department has limited financial assistance available for qualified graduate students in the form of graduate teaching assistantships (GTA) and graduate research assistantships (GRA). Grado, Pratt, NIOSH, Davenport, and Cunningham Fellowships are also available through the ISE department, college of engineering and the Graduate School. The monthly stipend for GTAs and GRAs varies depending on the nature of the assistantship and the graduate level of the student. All assistantships carry a waiver of tuition, except those awarded during summer terms. The student is responsible for comprehensive and other fees (visit http://www.bursar.vt.edu for current fees).
 
 All financial assistance is awarded on a competitive basis, with awards being made to the most qualified students based on merit. GTAs are awarded by the GPC and specific course assignments are made by departmental administration based on teaching needs. A student who is awarded a full-time GTA is obligated for 20 hours of work per week throughout the semester for which the award applies. Typically, a GTA is assigned to a member of the ISE faculty to assist in teaching a course. GRA awards are made to support research projects that are supervised by ISE faculty. Hence, the principal investigator for the research project from which the funding comes awards the GRA. A student receiving a GRA is expected to work 20 hours per week during the semester for which the award applies, the duties being assigned by the principal investigator. In a similar manner, the duties of a student on a fellowship depend on the particular fellowship and are not covered in this manual.
@@ -25,16 +28,20 @@ Graduate Research Assistant (GRA). Graduate research assistants are graduate stu
 
 Graduate Teaching Assistant (GTA). Graduate teaching assistants may assist faculty in teaching lower division courses, including laboratory teaching assignments, or in providing other appropriate professional assistance. First year GTAs with no prior teaching experience will not be assigned full responsibility for lecture courses. In ISE, it is unusual for a GTA to be assigned full course responsibility.
 
-## 4. Awarding of Graduate Teaching Assistantships 
+## 4. Awarding of Graduate Teaching Assistantships
+
 GTA support depends on the number of positions available and the number of applications for these positions. Graduate student applications for GTA support are invited from continuing Ph.D. students when they submit their annual Student Activity Reports (in January or February). The ISE Graduate Policy Committee reviews these applications and awards GTAs based on the following criteria: a) degree program (Ph.D. students have higher priority than M.S. students); b) academic performance (e.g., GPA), progress (completing program milestones), and productivity (e.g., journal and conference papers); and c) performance of prior GTA duties (if applicable). Ph.D. students who have had GTA support for eight or more academic-year semesters, or have been in the doctoral program for five or more years, will have a reduced priority for support.
 
-## 5. Changing from GTA to GRA 
+## 5. Changing from GTA to GRA
+
 A student may give up a GTA in favor of a GRA up to two weeks (14 days) before the start of semester classes. Beyond that point in time a GTA may be vacated in favor of a GRA only with the consent of the instructor of the course to which the GTA is assigned and the department head. In the event of a GTA to GRA change, the instructor of the course will work with the GPC to determine the replacement.
 
-## 6. Academic Eligibility 
+## 6. Academic Eligibility
+
 A student must maintain a cumulative grade point average of 3.0 or better for all courses taken while in graduate school at Virginia Tech and for all courses transferred for graduate credit at Virginia Tech. At the end of each semester the GPC reviews the progress of each ISE graduate student. Any student with a cumulative grade point average below 3.0 for their last semester of graduate work will be placed on academic probation and may be required to appear before this committee. The purpose of this appearance is to discover the source of the difficulties evidenced by unsatisfactory progress and to outline avenues that the student should pursue to improve their performance. In accordance with Graduate School and ISE departmental policy, any student who fails to meet these requirements in two successive semesters will typically be dismissed from the ISE graduate program.
 
-## 7. Graduate Honor System 
+## 7. Graduate Honor System
+
 Academic integrity is essential for maintaining the quality of scholarship in the department and for protecting those who depend on the results of research work performed by faculty and students in the department. The faculty of the Grado Department of Industrial and Systems Engineering expects all students to maintain academic integrity at all times in the classroom and the research laboratory and to conduct their academic work in accordance with the high ethical standards of the engineering profession.
 
 Students are expected to maintain academic integrity by refraining from academic dishonesty, and conduct that aids others in academic dishonesty or that leads to suspicion of academic dishonesty. Violations of academic integrity will result in disciplinary actions ranging from failing grades on assignments and courses to probation, suspension, or dismissal from the university.
@@ -45,14 +52,16 @@ It is recognized that graduate student population is very culturally diverse. In
 
 More specifically, all graduate students, while being affiliated with Virginia Tech, shall abide by the standards established by Virginia Tech, as these are described in the Graduate Honor System Constitution. Graduate students, in accepting admission, indicate their willingness to subscribe to and be governed by the Graduate Honor Code and acknowledge the right of the university to establish policies and procedures and to take disciplinary action (including suspension or expulsion) when such action is warranted. Ignorance shall be no excuse for actions that violate the integrity of the academic community.
 
-## 8. Graduate Program Advising 
+## 8. Graduate Program Advising
+
 M.S. and Ph.D. students are primarily advised by their faculty research advisor. M.Eng. students are advised by both the Graduate Program Director and the Graduate Program Advisor. M.E.A students are advised by the M.E.A. Director and Systems Engineering students are advised by the SYSE Director. All graduate students will be added to the ISE Graduate Advising Canvas site upon enrollment in any ISE graduate program. This site provides pages for all things related to the ISE graduate program. If you are enrolled in an ISE graduate program and are unable to access the site, contact the ISE Graduate Advisor.
 
 # GRADUATE DEGREE REQUIREMENTS
 
 Students pursuing a graduate degree in the ISE Department must satisfy the requirements of the Graduate School, the ISE Department, and those specific to the student’s degree program. For a discussion of general Graduate School requirements, the student should consult the Graduate Catalog (https://secure.graduateschool.vt.edu/graduate_catalog). Listed here are the requirements within ISE and those for each of the different degree programs. It is the responsibility of each student to know these requirements; students should consult with their faculty advisor, the ISE Graduate Advisor, or the ISE Graduate Program Director (GPD) to address any questions or concerns.
 
-## 1. Plan of Study (all degree programs) 
+## 1. Plan of Study (all degree programs)
+
 After identifying a graduate advisor (and graduate committee, if required), students need to prepare their plan of study in consultation with their advisor. The plan of study summarizes completed and planned coursework and the student’s advisors. Courses listed on the plan of study must include, but are not limited to, all courses required for the degree being pursued. A plan of study is required of all students pursuing graduate degrees at Virginia Tech and contains the elements below:
 
 A. List of courses to be completed for degree completion, including the semester and year in which each course has or will be taken.
@@ -62,7 +71,6 @@ B. The names and signatures of each member of the student’s graduate advisory 
 Graduate school policies indicate the following:
 
 - For students pursuing the Master of Engineering (M.Eng.), Master of Science (M.S.), Master of Engineering Administration (M.E.A.), or Master of Systems Engineering (M.S.), degrees, the plan of study must be completed and submitted prior to the completion of 24 credit hours or by the end of their second semester of full-time enrollment in their graduate program.
-
 - For students pursuing a Ph.D., the plan of study must be submitted prior to the completion of 36
 
 credit hours or by the end of their third semester of full-time enrollment in their graduate program.
@@ -77,7 +85,8 @@ Students who have completed a Master’s degree at another university may be req
 
 The plan of study approval process includes review and signed approval by the student’s advisor, graduate committee members, and GPD. The plan of study is submitted to the ISE Graduate Program Advisor for electronic entry and approval by the Graduate School.
 
-## 2. Requirements for Specific Degree Programs 
+## 2. Requirements for Specific Degree Programs
+
 Additional details on the requirements for each of the five different ISE degree programs. are given in separate sections below. Students should ensure that they follow the requirements that are appropriate for their specific degree program. Note that the expected timelines provided are for full-time students, and it is recognized that others will required addition time (e.g., part-time students or those who have taken leaves-of-absence).
 
 ### 2.1 Master of Engineering in ISE (M.Eng.)
@@ -106,17 +115,18 @@ The exam is scheduled online using the Graduate School’s electronic scheduling
 
 An overview of the requirements and the expected timeline is given in the figure below.
 
-1. Plan of Study (Year 1): Advisory Committee, Graduate Advisor, Courses
-2. Proposal (Year 1): Written Proposal, Oral Exam
-3. Progress Meeting (Year 2): Research Progress, Necessary Changes
-4. Final Defense (Year 2): Thesis/Dissertation, Oral Exam
+- Plan of Study (Year 1): Advisory Committee, Graduate Advisor, Courses
+- Proposal (Year 1): Written Proposal, Oral Exam
+- Progress Meeting (Year 2): Research Progress, Necessary Changes
+- Final Defense (Year 2): Thesis/Dissertation, Oral Exam
 
 #### Assessment
 
 All M.S. in ISE students will be assessed at various milestones during their degree by their advisory committee.
 
 M.S. in ISE Assessment:
-- Research Proposal Meeting 
+
+- Research Proposal Meeting
 - Final Thesis Defense
 
 The assessment rubric for each milestone can be found on the ISE Graduate Advising Canvas site, on the M.S. and Ph.D. Assessment page so that you know what the expectations are. Your advisory committee can access the assessment survey on the ISE HUB.
@@ -133,9 +143,9 @@ Committee Meetings: Committee members are expected to attend meetings as a colle
 
 ISE M.S. students are required to sequentially complete several milestones and to meet periodically with their graduate advisory committee. These milestones and associated committee meetings are listed below, though additional meetings can be held as needed. As noted earlier (see “Advisory Committee”), committee members are expected to attend all required meetings except in unusual circumstances.
 
-1. Research Proposal
-2. Progress Report
-3. Final Defense
+- Research Proposal
+- Progress Report
+- Final Defense
 
 A note regarding ISE Policy: Students, or anyone on their behalf, are strictly forbidden from bringing food or drink to student evaluation meetings (e.g., graduate student progress meetings, proposal defenses, final defenses).
 
@@ -220,21 +230,18 @@ The exam is scheduled online using the Graduate School’s electronic scheduling
 
 An overview of the requirements and the expected timeline is given in the figure below.
 
-1. Plan of Study (Year 1): Advisory Committee, Graduate Advisor, Courses
-
-2. Preliminary Exam (Year 2-3): Select Option, Written Deliverable, Oral Exam
-
-3. Proposal (Year 3): Written Proposal, Oral Exam
-
-4. Progress Meeting (Year 3-4): Research Progress, Necessary Changes
-
-5. Final Defense (Year 4): Thesis/Dissertation, Oral Exam
+- Plan of Study (Year 1): Advisory Committee, Graduate Advisor, Courses
+- Preliminary Exam (Year 2-3): Select Option, Written Deliverable, Oral Exam
+- Proposal (Year 3): Written Proposal, Oral Exam
+- Progress Meeting (Year 3-4): Research Progress, Necessary Changes
+- Final Defense (Year 4): Thesis/Dissertation, Oral Exam
 
 #### Assessment
 
 All Ph.D. students will be assessed at various milestones during their degree by their advisory committee.
 
 Ph.D. Assessment:
+
 - Preliminary Exam
 - Research Proposal Meeting
 - Final Dissertation Defense
@@ -253,10 +260,10 @@ Committee Meetings: Committee members are expected to attend meetings as a colle
 
 ISE Ph.D. students are required to sequentially complete several milestones and to meet periodically with their graduate advisory committee. These milestones and associated committee meetings are listed below, though additional meetings can be held as needed. As noted earlier (see “Advisory Committee”), committee members are expected to attend all required meetings except in unusual circumstances.
 
-1. Preliminary examination
-2. Research Proposal
-3. Progress Report
-4. Final Defense
+- Preliminary examination
+- Research Proposal
+- Progress Report
+- Final Defense
 
 A note regarding ISE Policy: Students, or anyone on their behalf, are strictly forbidden from bringing food or drink to student evaluation meetings (e.g., graduate student progress meetings, proposal defenses, prelim defenses, final defenses).
 
@@ -274,13 +281,10 @@ When submitting the required deliverable for any of the four options, the studen
 
 For options 2, 3, and 4, the topic may be determined by the student; in these cases, the topic needs to be approved in advance by the committee. Such approval can be obtained in a meeting or via individual discussions. Alternatively, the topic can be suggested by the committee. Deliverables for these same options must represent work done since starting the Ph.D. program at VT. Any material provided in these deliverables may be used by the student in subsequent program milestones without limitation.
 
-1. Written Examination: The student will respond to written questions posed by the advisory committee. Questions can cover any aspect of ISE study desired by the advisory committee, though these are often focused on the student’s area(s) of research interest. Students are therefore strongly encouraged to submit the brief description of their research interests, noted above, to the advisory committee, and to do so well before the examination. Students will have two weeks after receiving questions to provide written responses to the advisory committee questions and may not receive any assistance with their written responses.
-
-2. Research Paper: The student will submit to the committee a paper that represents a completed research effort. This effort should represent original work led by the student and should be prepared in a format and with a writing style appropriate for a leading peer-reviewed journal in their research area.
-
-3. Review Paper: The student will submit to the committee a critical review of the literature in a research area, which summarizes the current state of knowledge and associated limitations or future needs. This effort should represent original work led by the student and should be prepared in a format and with a writing style appropriate for a leading peer-reviewed journal in their research area.
-
-4. Proposal for a Research Effort: The student will submit to the committee a written proposal for a research effort, the scope of which should be roughly equivalent to one publication in a peer-reviewed journal in their research area. It will be acceptable for the student to include this material as a portion of their subsequent dissertation proposal. The proposal should include clear motivation for the proposed work, a critical review of relevant literature, and a detailed research plan.
+- Written Examination: The student will respond to written questions posed by the advisory committee. Questions can cover any aspect of ISE study desired by the advisory committee, though these are often focused on the student’s area(s) of research interest. Students are therefore strongly encouraged to submit the brief description of their research interests, noted above, to the advisory committee, and to do so well before the examination. Students will have two weeks after receiving questions to provide written responses to the advisory committee questions and may not receive any assistance with their written responses.
+- Research Paper: The student will submit to the committee a paper that represents a completed research effort. This effort should represent original work led by the student and should be prepared in a format and with a writing style appropriate for a leading peer-reviewed journal in their research area.
+- Review Paper: The student will submit to the committee a critical review of the literature in a research area, which summarizes the current state of knowledge and associated limitations or future needs. This effort should represent original work led by the student and should be prepared in a format and with a writing style appropriate for a leading peer-reviewed journal in their research area.
+- Proposal for a Research Effort: The student will submit to the committee a written proposal for a research effort, the scope of which should be roughly equivalent to one publication in a peer-reviewed journal in their research area. It will be acceptable for the student to include this material as a portion of their subsequent dissertation proposal. The proposal should include clear motivation for the proposed work, a critical review of relevant literature, and a detailed research plan.
 
 The oral portion of the examination is administered at least two weeks after completion of the written portion and must be scheduled through the Graduate School. Students must be enrolled during the semester the oral portion of the examination is taken and may not schedule the preliminary examination until they have a plan of study that has received final approval from the Graduate School. The oral preliminary examination must be scheduled through the Graduate School at least two weeks prior to the date the exam will be held. The exam is scheduled online using the Graduate School’s electronic scheduling and signature system (ESS).
 
@@ -339,24 +343,18 @@ Thesis Disadvantages: Students will generally invest at least one summer working
 
 Students working on the M.S. or Ph.D. are evaluated at these major program milestones using a shared rubric. A copy of this rubric is available to students on a Canvas site for ISE graduate students. Major areas of evaluation include the following (not all areas will be relevant for all students at all milestones):
 
-- Knowledge of and ability to critique the body of knowledge related to the area(s) of research. 
-
+- Knowledge of and ability to critique the body of knowledge related to the area(s) of research.
 - Ability to properly use methods, or develop new methods, as relevant to the area(s) of research and proposed research topic(s).
-
-- Creativity and originality in formulating a research plan. 
-
-- Ability to articulate the significance of the research (plan). 
-
+- Creativity and originality in formulating a research plan.
+- Ability to articulate the significance of the research (plan).
 - Ability to present the technical and broader societal impacts and implications of the research (plan).
-
 - Written communication skills (including organization, flow, writing quality, level of detail and completeness, and data presentation).
-
 - Oral communication skills (including organization, flow, speaking quality, use of media, and responses to questions).
-
--  Ability to perform future independent research.
+- Ability to perform future independent research.
 
 ## 4. Continuing from the M.S. to the Ph.D.
- Students in the Master’s program who wish to continue in the ISE department to pursue a Ph.D. degree need to formally apply to the Ph.D. program (i.e., by submitting an application to the Graduate School). The ISE Graduate Admissions Committee will review the student’s academic performance, and a decision on admission to the Ph.D. program will be made upon completion of the review. If accepted, the student will be officially notified by the Graduate School.
+
+Students in the Master’s program who wish to continue in the ISE department to pursue a Ph.D. degree need to formally apply to the Ph.D. program (i.e., by submitting an application to the Graduate School). The ISE Graduate Admissions Committee will review the student’s academic performance, and a decision on admission to the Ph.D. program will be made upon completion of the review. If accepted, the student will be officially notified by the Graduate School.
 
 # DOCTOR OF PHILOSOPHY (PH.D.) PROGRAM
 
@@ -366,24 +364,19 @@ Prospective Ph.D. students should have a strong academic background that is comm
 
 ## 1. Common Requirements for Concentrations The following applies to all concentrations. Please note, however, that several of these are minimum requirements that may be exceeded by the requirements of a given concentration, and that additional requirements may exist in some concentrations.
 
-- The Graduate School requires a total of 90 credits for a Ph.D. 
-
+- The Graduate School requires a total of 90 credits for a Ph.D.
 - All Ph.D. student must complete a minimum of 36 graded credit hours, including 24 graded ISE course hours (post BS.) Note that ISE 5804 and ISE 5814 can be counted toward the ISE course- hour requirement, unless otherwise indicated for a given concentration
-
 - All students must take ISE 5024 – ISE Graduate Seminar in their first fall semester of enrollment and ENGE 5034 – Graduate Student Success in Multicultural Environments within their first year of enrollment. Please note that these courses do not count towards the minimum 36 graded credits.
-
 - P/F and other non-graded courses cannot be counted toward minimum credit-hour requirements, unless there is no other grade option for the course.
-
-- All required courses in a concentration must be taken for a grade (i.e., A-F) 
-
+- All required courses in a concentration must be taken for a grade (i.e., A-F)
 - Courses not listed as pre-approved electives in a concentration may be taken, or substitutions for required concentration courses made, pending approval of the student’s Ph.D. advisory committee
 
 ## 2. Ph.D. Program Concentrations
 
-1. Cognitive Engineering 
+- Cognitive Engineering
 2.Human Factors of Systems & Product Design
-3. Management Systems Engineering
-4. Manufacturing Systems Engineering 
-5. Occupational Ergonomics and Safety
-6. Operations Research
-7. Systems Engineering
+- Management Systems Engineering
+- Manufacturing Systems Engineering
+- Occupational Ergonomics and Safety
+- Operations Research
+- Systems Engineering
