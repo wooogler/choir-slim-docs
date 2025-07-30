@@ -23,9 +23,9 @@ The lab consistently presents at leading ergonomics and human factors conference
 ### Target Conferences
 
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
-- **Applied Human Factors and Ergonomics (AHFE)**
 - HFES is the most preferred conference.
-
+- **Applied Human Factors and Ergonomics (AHFE)**
+- The Smart Life in Motion (SLIM) Lab at Virginia Tech considers the Applied Human Factors and Ergonomics (AHFE) conference as the most preferred conference for their work. This preference suggests that the conference aligns well with the lab's focus on human motion, functional biomechanics, wearable sensing, and data analytics, as well as their commitment to enhancing human performance and well-being. Attending AHFE may provide valuable opportunities for SLIM Lab to share research findings, collaborate with other experts in the field, and stay updated on the latest advancements relevant to their goals of promoting inclusive and healthy mobility.
 
 # Co-Author Communication Responsibilities
 
