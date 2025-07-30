@@ -23,3 +23,9 @@
 - IT Ticket – to submit an IT support request through the ISE app: [link](https://apps.ise.vt.edu/)
 - Grade Change Request Form – a Microsoft Forms link for grade adjustments: [link](https://forms.office.com/r/ivCCSrLHzG)
 - Upload W9 or Other Confidential Document – Google Forms upload portal: [link](https://forms.gle/qUuFHY5ZGrUf6BBB9)
+
+# Social Event Organization
+
+- At Slimlab, social events are organized once per semester. Students are given the freedom to organize any type of social event they desire. Past events have included game nights, dinners, and nights out. A designated 'Social Czar' or 'Czarina' is responsible for organizing these events. After organizing and spending money on the event, they can request reimbursement. Additionally, if there is a significant number of people attending a conference, a dinner with alumni may be organized.
+
+- At Slimlab, social events are organized once per semester. Students are given the freedom to organize any type of social event they desire. Past events have included game nights, dinners, and nights out. A designated 'Social Czar' or 'Czarina' is responsible for organizing these events. After organizing and spending money on the event, they can request reimbursement. Additionally, if there is a significant number of people attending a conference, a dinner with alumni may be organized.
