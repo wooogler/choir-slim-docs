@@ -27,5 +27,8 @@
 # Social Event Organization
 
 - At Slimlab, social events are organized once per semester. Students are given the freedom to organize any type of social event they desire. Past events have included game nights, dinners, and nights out. A designated 'Social Czar' or 'Czarina' is responsible for organizing these events. After organizing and spending money on the event, they can request reimbursement. Additionally, if there is a significant number of people attending a conference, a dinner with alumni may be organized.
-
 - At Slimlab, social events are organized once per semester. Students are given the freedom to organize any type of social event they desire. Past events have included game nights, dinners, and nights out. A designated 'Social Czar' or 'Czarina' is responsible for organizing these events. After organizing and spending money on the event, they can request reimbursement. Additionally, if there is a significant number of people attending a conference, a dinner with alumni may be organized.
+
+# Social Event Organization
+
+- At Slimlab, social events are organized once per semester. Students are given the freedom to organize any type of social event they desire, such as game nights, dinners, or nights out. A designated individual, referred to as a 'social Czar' or 'Czarina,' is responsible for organizing these events. After organizing and spending money on the event, the social Czar or Czarina can request reimbursement for the expenses incurred. Additionally, if there is a significant number of people attending a conference, Slimlab attempts to organize a dinner with alumni during the conference.
