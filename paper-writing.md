@@ -22,7 +22,7 @@ The lab consistently presents at leading ergonomics and human factors conference
 
 ### Target Conferences
 
-- **Human Factors and Ergonomics Society (HFES) Annual Meeting**
+- **Human Factors and Ergonomics Society (HFES) Annual Meeting** (Preferred)
 - **Applied Human Factors and Ergonomics (AHFE)**
 
 # Co-Author Communication Responsibilities
