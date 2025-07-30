@@ -23,3 +23,5 @@
 - IT Ticket – to submit an IT support request through the ISE app: [link](https://apps.ise.vt.edu/)
 - Grade Change Request Form – a Microsoft Forms link for grade adjustments: [link](https://forms.office.com/r/ivCCSrLHzG)
 - Upload W9 or Other Confidential Document – Google Forms upload portal: [link](https://forms.gle/qUuFHY5ZGrUf6BBB9)
+
+# Social Event Organization
