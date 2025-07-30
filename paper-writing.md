@@ -23,6 +23,9 @@ The lab consistently presents at leading ergonomics and human factors conference
 ### Target Conferences
 
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
+- The SLIM Lab at Virginia Tech has a preference for targeting specific conferences that align with its research goals and objectives, with HFES being a more preferred venue over others.
+- This preference suggests that HFES aligns well with the lab's focus on human motion, functional biomechanics, and the integration of wearable sensing and data analytics.
+- Attending HFES likely provides valuable opportunities for SLIM Lab to engage with relevant research communities, share findings, and collaborate on projects that promote inclusive and healthy mobility.
 - **Applied Human Factors and Ergonomics (AHFE)**
 
 # Co-Author Communication Responsibilities
