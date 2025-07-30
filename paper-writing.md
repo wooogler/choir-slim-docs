@@ -23,9 +23,7 @@ The lab consistently presents at leading ergonomics and human factors conference
 ### Target Conferences
 
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
-- Slimlab considers HFES (Human Factors and Ergonomics Society) as the most preferred conference.
 - **Applied Human Factors and Ergonomics (AHFE)**
-- Slimlab's most preferred conference is AHFE.
 
 # Co-Author Communication Responsibilities
 
