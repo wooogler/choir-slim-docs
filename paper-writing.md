@@ -23,8 +23,9 @@ The lab consistently presents at leading ergonomics and human factors conference
 ### Target Conferences
 
 - **Human Factors and Ergonomics Society (HFES) Annual Meeting**
-- HFES is the most preferred conference.
 - **Applied Human Factors and Ergonomics (AHFE)**
+- HFES is the most preferred conference.
+
 
 # Co-Author Communication Responsibilities
 
