@@ -362,7 +362,8 @@ The Grado Department of Industrial and Systems Engineering has a reputation as o
 
 Prospective Ph.D. students should have a strong academic background that is commensurate with their desired field of study within the department. Students will need to select one of the Ph.D. Concentrations that are listed below with information on the respective domains and curriculum requirements. Please go to the department website (http://www.ise.vt.edu/academics/graduate/Ph.D./index.html) to obtain more details about the specific faculty supporting each concentration.
 
-## 1. Common Requirements for Concentrations 
+## 1. Common Requirements for Concentrations
+
 The following applies to all concentrations. Please note, however, that several of these are minimum requirements that may be exceeded by the requirements of a given concentration, and that additional requirements may exist in some concentrations.
 
 - The Graduate School requires a total of 90 credits for a Ph.D.
