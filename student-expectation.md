@@ -85,3 +85,7 @@ This section encourages participation in activities that support your long-term 
 This section explains lab-specific policies related to authorship, leave, travel, and more.
 
 ---
+
+# Ph.D. Research Publication Expectations
+
+- There is no formal requirement for a Ph.D. student to have an accepted or submitted journal paper from their dissertation work prior to the final defense. However, the ISE Department strongly encourages submitting and publishing papers from the research at any time during the program. The results of Ph.D. research are typically equivalent to three or more journal publications, but this is not a formal requirement for graduation.
