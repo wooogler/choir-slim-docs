@@ -11,7 +11,22 @@ The SLIM Lab is dedicated to advancing inclusive and safe human-centered design 
 
 ## 🧑‍🔬 Human-subject Study and IRB
 
-This section contains information about human subject study and IRB informatino.
+This section contains information about human subject study and IRB information. As part of our lab, all new students should complete the CITI training to be compliant with the IRB process. I am listing the instructions to complete your CITI certification.
+
+- Open an account here with your VT ID: https://www.citiprogram.org/?pageID=668
+
+Select "login with your organization". Search for Virginia Polytechnic Institute and State University.
+
+- Complete these courses with a passing mark and download the completion certificates. You will need those certificates for the IRB website.
+
+List of courses to be completed:
+
+- Basic Responsible Conduct of Research Course
+- Biomedical Research
+- Research Conflict of Interest (COI) Training for Investigators
+- Social & Behavioral Research
+
+Make sure Virginia Tech is listed as your institution.
 
 ## 🧑‍🔬 Resources: Equpiment, Hardware, Software
 
