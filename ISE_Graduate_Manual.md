@@ -2,7 +2,7 @@
 
 The Grado Department of Industrial and Systems Engineering (ISE) offers a broad-based program allowing students to pursue graduate study commensurate with their career goals. Specific strengths of the program are in the areas of human factors engineering and ergonomics, general industrial engineering, management systems engineering, manufacturing systems engineering, operations research, engineering administration, and systems engineering. The Doctor of Philosophy (Ph.D.) degree is offered in Industrial and Systems Engineering, as is the Master of Science (M.S.) and Master of Engineering (M.Eng.), and Master of Engineering Administration (M.E.A.). The department also offers a Master of Science (M.S.) in Systems Engineering (M.S.)
 
-# GRADUATE PROGRAM POLICIES & PROCEEDURES
+# GRADUATE PROGRAM POLICIES & PROCEDURES
 
 ## 1. Purpose of the Graduate Manual
 
@@ -368,7 +368,7 @@ The following applies to all concentrations. Please note, however, that several 
 
 - The Graduate School requires a total of 90 credits for a Ph.D.
 - All Ph.D. student must complete a minimum of 36 graded credit hours, including 24 graded ISE course hours (post BS.) Note that ISE 5804 and ISE 5814 can be counted toward the ISE course- hour requirement, unless otherwise indicated for a given concentration
-- All students must take ISE 5024 – ISE Graduate Seminar in their first fall semester of enrollment and ENGE 5034 – Graduate Student Success in Multicultural Environments within their first year of enrollment. Please note that these courses do not count towards the minimum 36 graded credits.
+- All students must take ISE 5024 – ISE Graduate Seminar in their first fall semester of enrollment and ENGE 5304 – Graduate Student Success in Multicultural Environments within their first year of enrollment. Please note that these courses do not count towards the minimum 36 graded credits.
 - P/F and other non-graded courses cannot be counted toward minimum credit-hour requirements, unless there is no other grade option for the course.
 - All required courses in a concentration must be taken for a grade (i.e., A-F)
 - Courses not listed as pre-approved electives in a concentration may be taken, or substitutions for required concentration courses made, pending approval of the student’s Ph.D. advisory committee
