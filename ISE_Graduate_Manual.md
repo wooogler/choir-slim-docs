@@ -376,7 +376,7 @@ The following applies to all concentrations. Please note, however, that several 
 ## 2. Ph.D. Program Concentrations
 
 - Cognitive Engineering
-2.Human Factors of Systems & Product Design
+- Human Factors of Systems & Product Design
 - Management Systems Engineering
 - Manufacturing Systems Engineering
 - Occupational Ergonomics and Safety
